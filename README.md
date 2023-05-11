@@ -2,7 +2,7 @@
 
 Music Player App with Flutter
 
-Libraries:
+## Libraries:
 
 - [State Management : Provider](https://pub.dev/packages/provider)
 - [HTTP Requests : http](https://pub.dev/packages/http)
@@ -16,3 +16,7 @@ Libraries:
 - [FP in Dart: dartz](https://pub.dev/packages/dartz)
 - [Local Storage: SQLite](https://pub.dev/packages/sqflite)
 - [Clean Architecture]
+
+## Feature
+- Home
+- Favourite
