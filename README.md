@@ -2,8 +2,6 @@
 
 Music Player App with Flutter
 
-##Info
-
 Libraries:
 
 - [State Management : Provider](https://pub.dev/packages/provider)
