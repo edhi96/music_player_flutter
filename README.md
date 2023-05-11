@@ -23,8 +23,6 @@ Music Player App with Flutter
 
 ## Screenshot
 ![Home](https://github.com/edhi96/music_player_flutter/assets/10931337/6fce8706-8037-4ac3-91ed-b63ef3db51d1)
-![Play Music](https://github.com/edh![screen_favourite](https://github.com/edhi96/music_player_flutter/assets/10931337/a45f8899-5d74-4107-9a33-d3adc73e4100)
 ![Detail Music](https://github.com/edhi96/music_player_flutter/assets/10931337/a6aad941-4f0d-489b-8ff7-649002ca0f2d)
 ![Favourite](https://github.com/edhi96/music_player_flutter/assets/10931337/8821a196-3399-4c5b-8703-6c586ba14cbd)
-
-
+![Play Music](https://github.com/edhi96/music_player_flutter/assets/10931337/e9e392ca-6922-42ed-bd38-52302a2919db)
